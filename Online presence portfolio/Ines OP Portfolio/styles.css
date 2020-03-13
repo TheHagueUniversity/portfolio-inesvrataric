@@ -11,15 +11,15 @@ html {
   width: 100%;
 }
 .topnav a {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Kiona';
   color: rgb(255, 255, 255);
   text-align: center;
   text-decoration: none;
   font-size: 16px;
-  margin: 50px 50px;
+  margin: 50px 80px;
 }
 .topnav a:hover {
-  color: black;
+  color: #CDD3C2;
 }
 
 
@@ -36,9 +36,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
 }
-img {
-  width: 300px;
-}
+
 a {
   color: #D89279;
 }
@@ -60,7 +58,6 @@ h1, h2 {
   margin: 0;
 }
 .content-wrap {
-  max-width: 800px;
   width: 85%;
   margin: 0 auto;
   padding: 60px 0;
@@ -131,7 +128,7 @@ header {
 /* Contact Info
 ------------------------------------*/
 footer {
-  background: #343434;
+  background: #838383;
   color: #F7FFF7;
 }
 .contact-list {
