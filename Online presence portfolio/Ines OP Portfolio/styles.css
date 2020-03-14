@@ -1,7 +1,7 @@
 
 html {
   box-sizing: border-box;
-  scroll-behavior: ;
+  scroll-behavior: smooth;
 
 }
 
@@ -38,10 +38,12 @@ html {
 
 p{
     color: rgb(0, 0, 0);
+    font-size: 20px;
   }
 
 
 body {
+    scroll-behavior: smooth;
     background: black;
   margin: 0;
   padding: 0;
